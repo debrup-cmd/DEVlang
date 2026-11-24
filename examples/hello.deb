@@ -1,0 +1,4 @@
+# Your first DebLang program
+bolo("Namaste! Welcome to DebLang.")
+naam = pucho("Apna naam likho: ")
+bolo("Hello", naam)

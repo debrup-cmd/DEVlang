@@ -1,0 +1,8 @@
+marks = 82
+
+agar marks >= 90:
+    bolo("Grade A+")
+warna_agar marks >= 75:
+    bolo("Grade A")
+warna:
+    bolo("Keep practising!")

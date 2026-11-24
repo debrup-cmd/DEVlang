@@ -1,0 +1,8 @@
+bolo("Counting from 1 to 5")
+har number mein range(1, 6):
+    bolo(number)
+
+count = 3
+jabtak count > 0:
+    bolo("Countdown:", count)
+    count -= 1

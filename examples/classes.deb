@@ -1,0 +1,10 @@
+varg Student:
+    karya __init__(self, name, marks):
+        self.name = name
+        self.marks = marks
+
+    karya introduce(self):
+        bolo("I am", self.name, "and my marks are", self.marks)
+
+student = Student("Deb", 92)
+student.introduce()

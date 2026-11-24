@@ -1,0 +1,4 @@
+karya square(number):
+    wapas number * number
+
+bolo("Square:", square(6))
